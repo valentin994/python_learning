@@ -7,9 +7,10 @@ You can go to the Contents section and go directly to the desired section or bro
 
 ## Contents
 - [Decorators]()
-    - [Novice](/decorators/novice.py)
+    - [Novice](/decorators/novice.py) - Decorator definition, use cases, classmethod, staticmethod, properties
+    - [Intermediate](/intermediate/novice.py)
 - [Functions]()
     - [Novice](/functions/novice.py) - Basic Syntax, Lamba Syntax, Map/Zip/Filter/Reduce Functions, Scopes 
     - [Intermediate](/functions/intermediate.py) - Functions as first class citizens, Higher order functions, Recursion, Scopes
     - [Advanced](/functions/advanced.py) - Scopes, Recursion 
-    - [Expert](/functions/exper.py)
+    - [Expert](/functions/expert.py)
